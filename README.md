@@ -1,37 +1,39 @@
 ###
 
-<h3 align="center">Hello, I am Dima! 🚀 Let's Build Something Awesome 👋</h3>
+<h3 align="center">Hello, I am Dima!👋</h3>
 
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+Enthusiast;Design+to+Code+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Front-End+Developer;Code+Enthusiast;Design+to+Code" alt="Typing SVG" />
 </div>
 
 ###
 
-<h4 align="center">A Bit About Me 🌟</h4>
-
-I'm a passionate developer who loves turning creative designs into responsive, high-performance web apps. When I'm not coding, you'll find me exploring new tools or collaborating on exciting projects!
-
-###
-
-<h4 align="center">My Soft Skills 💡</h4>
-
-- 🤝 **Teamwork**: Thriving in collaborative environments to deliver top-notch results.
-- 🎨 **Precise Design to Code**: Bridging the gap between stunning designs and flawless implementation.
-- 📱 **Responsive Web Design**: Ensuring seamless experiences across all devices.
-- 🔍 **And More**: Problem-solving, attention to detail, and a knack for innovation!
+<h2 align="center">A Bit About Me</h2>
+<p align="center" style="text-align: center">
+I'm a passionate developer who loves turning creative designs into responsive, high-performance web apps.
+</p>
+<p align="center" style="text-align: center">
+ When I'm not coding, you'll find me exploring new tools or collaborating on exciting projects!
+</p>
 
 ###
 
-<br clear="both">
+<h2 align="center">My Soft Skills</h2>
 
-<img src="https://raw.githubusercontent.com/Dima-AH/Dima-AH/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<ul style="list-style-type: none; padding: 0;">
+  <p>🤝 <strong>Teamwork</strong>: Thriving in collaborative environments to deliver top-notch results.</p>
+  <p>🎨 <strong>Precise Design to Code</strong>: Bridging the gap between stunning designs and flawless implementation.</p>
+  <p>📱 <strong>Responsive Web Design</strong>: Ensuring seamless experiences across all devices.</p>
+  <p>🔍 <strong>And More</strong>: Problem-solving, attention to detail, and a knack for innovation!</p>
+</ul>
+</div>
 
 ###
 
-<h4 align="center">Tech Stack 🛠️</h4>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
@@ -51,13 +53,14 @@ I'm a passionate developer who loves turning creative designs into responsive, h
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo" />
-</div>
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dima-AH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Dima-AH&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
+<!-- <br clear="both"> -->
 
-###
+<!-- <img src="https://raw.githubusercontent.com/Dima-AH/Dima-AH/output/snake.svg?palette=github-dark" alt="Snake animation" /> -->
+
