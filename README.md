@@ -18,20 +18,7 @@ I'm a passionate developer who loves turning creative designs into responsive, h
  When I'm not coding, you'll find me exploring new tools or collaborating on exciting projects!
 </p>
 
-###
-
-<h2 align="center">My Soft Skills</h2>
-
-<div align="center">
-<ul style="list-style-type: none; padding: 0;">
-  <p>🤝 <strong>Teamwork</strong>: Thriving in collaborative environments to deliver top-notch results.</p>
-  <p>🎨 <strong>Precise Design to Code</strong>: Bridging the gap between stunning designs and flawless implementation.</p>
-  <p>📱 <strong>Responsive Web Design</strong>: Ensuring seamless experiences across all devices.</p>
-  <p>🔍 <strong>And More</strong>: Problem-solving, attention to detail, and a knack for innovation!</p>
-</ul>
-</div>
-
-###
+<br/>
 
 <h3 align="center">Tech Stack</h3>
 
