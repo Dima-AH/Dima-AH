@@ -52,10 +52,6 @@ I'm a passionate developer who loves turning creative designs into responsive, h
   <img src="https://skillicons.dev/icons?i=rxjs" height="40" alt="rxjs logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=vuejs" height="40" alt="vue logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=openlayer" height="40" alt="openlayer logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ngzorro" height="40" alt="ngzorro logo" />
 
 ###
 
