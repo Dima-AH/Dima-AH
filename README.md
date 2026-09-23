@@ -11,11 +11,13 @@
 ###
 
 <h2 align="center">A Bit About Me</h2>
-<p align="center" style="text-align: center">
+
+<p align="center">
 I'm a passionate developer who loves turning creative designs into responsive, high-performance web apps.
 </p>
-<p align="center" style="text-align: center">
- When I'm not coding, you'll find me exploring new tools or collaborating on exciting projects!
+
+<p align="center">
+When I'm not coding, you'll find me exploring new tools or collaborating on exciting projects!
 </p>
 
 <br/>
@@ -52,10 +54,23 @@ I'm a passionate developer who loves turning creative designs into responsive, h
   <img src="https://skillicons.dev/icons?i=rxjs" height="40" alt="rxjs logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=vuejs" height="40" alt="vue logo" />
+</div>
 
 ###
 
-<!-- <br clear="both"> -->
+<h3 align="center">🌐 Explore My Portfolio</h3>
 
-<!-- <img src="https://raw.githubusercontent.com/Dima-AH/Dima-AH/output/snake.svg?palette=github-dark" alt="Snake animation" /> -->
+<div align="center">
+  <a href="https://miladahmadi.vercel.app" target="_blank">
+    <img
+      src="https://img.shields.io/badge/miladahmadi.vercel.app-007BFF?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio Website"
+    />
+  </a>
+</div>
 
+<p align="center">
+  <sub>Design • Development • Experiments</sub>
+</p>
+
+###
