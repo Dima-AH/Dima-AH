@@ -54,6 +54,8 @@ When I'm not coding, you'll find me exploring new tools or collaborating on exci
   <img src="https://skillicons.dev/icons?i=rxjs" height="40" alt="rxjs logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=vuejs" height="40" alt="vue logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxt logo" />
 </div>
 
 ###
